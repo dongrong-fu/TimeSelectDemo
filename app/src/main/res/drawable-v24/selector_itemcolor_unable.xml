@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape>
+            <!-- 设置背景填充色为黑色 -->
+            <solid android:color="#e0e0e0" />
+            <!-- 设置按钮圆角半径为5dp -->
+            <corners android:radius="0dp" />
+        </shape>
+    </item>
+
+</selector>
